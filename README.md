@@ -188,3 +188,9 @@ Result of conversion:
 
 
 ```
+
+
+---------------------------------------
+XStream 轻松搞定JAVA对象与XML/JSON之间相互转换 
+	http://showlike.iteye.com/blog/1050843
+	http://blog.csdn.net/sdyy321/article/details/7024236/
